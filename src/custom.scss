@@ -1,0 +1,17 @@
+// $theme-colors: (
+$theme-colors: (
+  "primary": #f5c518,
+  "secondary": #77b2ed,
+  "success": #0ea563,
+  "info": #8095a5,
+  "warning": #e0cc0e,
+  "danger": #ef2405,
+  "light": #e4e7eb,
+  "dark": #000000,
+  "white": #ffffff,
+  "black": #000000,
+);
+
+$font-family-base: "Amazon Ember", sans-serif;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
